@@ -1,0 +1,13 @@
+{
+  "id": "com.justinclicks.jiosaavn",
+  "version": "1.0.0",
+  "vendor": "JustInClicks.com",
+  "type": "web",
+  "main": "index.html",
+  "title": "Jio Saavn",
+  "icon": "icon.png",
+  "largeIcon": "largeIcon.png",
+  "uiRevision": 2,
+  "iconColor":"white"
+
+}
